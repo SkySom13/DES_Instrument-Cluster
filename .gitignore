@@ -8,3 +8,6 @@ build
 
 # Only for macOS
 .DS_Store
+Cluster-app/cross-compile-wsl-qt68.bat
+Cluster-app/deploy-wsl-to-pi.bat
+Cluster-app/Makefile
